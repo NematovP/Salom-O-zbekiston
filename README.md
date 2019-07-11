@@ -1,1 +1,2 @@
-# Salom-O-zbekiston
+# Salom-Uzbekiston
+Salom Hammaga
